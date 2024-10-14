@@ -11,7 +11,7 @@ import java.util.List;
 
 import static org.testng.AssertJUnit.assertTrue;
 
-public class SeleniumTest extends BaseTest {
+public class SeleniumTestSandra extends BaseTest {
     public String productName = "";
 
     @Test
